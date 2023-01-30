@@ -6,6 +6,9 @@ And you don't have to check all the civic tech apps for updates, the updates com
 
 For Civic Tech Apps (and their developers :-), you can work on the app and the data, the civic-news-reader brings the users to you.
 
+Here is the UI design created at the Hacky New Year 2023 Democracy Lab Hackathon:  (Click on it to interact)
+[!<img width="307" alt="image" src="https://user-images.githubusercontent.com/3317487/215582697-061b454f-3c65-4d1d-b854-d5e9e6014505.png">](https://www.figma.com/proto/vMIWkVENMbRVtRXjDlON7s/Awesome-Android-UI-Kit?node-id=2%3A516&scaling=contain&page-id=0%3A5690&starting-point-node-id=2%3A516)
+
 # Geting started
 This project is build using the [civil-server](https://github.com/EnCiv/civil-server). At this time this repo is just an empty template.
 
